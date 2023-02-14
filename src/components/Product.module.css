@@ -1,0 +1,67 @@
+.buttonsContainer {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     margin: 1rem 0 0 0;
+}
+
+.price {
+     background-color: #acff2f;
+     color: #006d00;
+     padding: 2px;
+     border-radius: 5px;
+     margin: 0;
+}
+
+.detail {
+     color: blue ;
+     text-decoration: none;
+}
+
+.handlersContainer {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+}
+
+.button {
+     width: 38px;
+     height: 38px;
+     display: flex !important;
+     justify-content: center;
+     align-items: center;
+}
+
+.number {
+     margin: 0 .7rem;
+     font-weight: bold;
+}
+
+.rateContainer {
+     display: flex;
+     align-items: center;
+
+}
+
+.rateContainer img {
+     width: 20px;
+     height: 20px;
+}
+
+.rateContainer p {
+     margin: 0;
+}
+
+.imageContainer {
+     /* border: 1px solid silver; */
+     height: 280px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.image {
+     max-width: 180px;
+     max-height: 280px;
+     /* height: 180px; */
+}
