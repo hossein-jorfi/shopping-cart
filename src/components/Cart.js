@@ -54,7 +54,7 @@ const Cart = () => {
                          </Alert>
                          :
                          <Alert variant='primary'>
-                              <h5>No product here, whant to shop? <Link to='/'>Click Here</Link></h5>
+                              <h5>No product here <Link to='/'>Click Here</Link> to shop</h5>
                          </Alert>
                }
                <br />
